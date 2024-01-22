@@ -1,5 +1,5 @@
 # Project Overview
-Here you will write a short description of your project.
+A cat portfolio created with basic html.
 
 
 # Presentation
